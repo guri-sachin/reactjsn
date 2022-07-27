@@ -1,0 +1,58 @@
+.card{
+  width:400px;
+}
+
+
+
+
+#carouselExampleControls{
+  height:"400px"
+  width ="400px"
+ }
+ 
+ .o{
+   margin-left: 40%;
+   
+ }
+ 
+ .Rl {
+   border: border="2px solid black";
+   height: 50%;
+   width:50%;
+ }
+ #J{
+   margin-right: 45%;
+
+ }
+ #K{
+   margin-left: 10%;
+   position:relative;
+ }
+
+.Or{
+  border:1px solid black;
+  width: 18%;
+  background-color: black;
+  height: 600px;
+}
+
+
+.L{
+  padding: 2%;
+  margin-top: 10%;
+  margin-left: 35%;
+  margin-right: 35%;
+  border:1px solid black;
+  background-color: white;
+}
+#P{
+  padding:5px 110px; font-size:20px;  margin-top:25px ;
+  margin-left: 60px;
+}
+#Input{
+  margin-bottom:16px;
+   height:100px;
+}
+#Location{
+  margin-bottom:16px;
+}
